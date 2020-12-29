@@ -1,6 +1,14 @@
+<!--
+ * @Description: 
+ * @Author: ZhouGe
+ * @Date: 2020-12-29 17:50:23
+ * @LastEditors: ZhouGe
+ * @LastEditTime: 2020-12-29 19:01:15
+-->
 <template>
   <div id="app">
     vue2 template
+    <div style="color: red">test</div>
   </div>
 </template>
 
